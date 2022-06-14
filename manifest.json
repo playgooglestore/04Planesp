@@ -1,21 +1,21 @@
 {
-    "name": "Burç-Günlük Türkçe",
-    "short_name": "Burç-Günlük Türkçe",
-    "start_url": "/05amulet/index02",
+    "name": "eDarling",
+    "short_name": "eDarling",
+    "start_url": "/04Planesp/index02",
     "display": "standalone",
     "background_color": "#2A3443",
-    "description": "Burç-Günlük Türkçe",
+    "description": "eDarling - Wejdź w bliski związek",
     "theme_color": "#2A3443",
     "orientation": "any",
     "icons": [
         {
-            "src": "/05amulet/icon-512x512.png",
+            "src": "/04Planesp/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
         },
       {
-        "src": "/05amulet/icon-512x512.png",
+        "src": "/04Planesp/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
