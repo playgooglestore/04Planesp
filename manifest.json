@@ -1,21 +1,21 @@
 {
-    "name": "Perder Peso para Mujeres",
-    "short_name": "Perder Peso para Mujeres",
-    "start_url": "/04Planesp/index02",
+    "name": "Burç-Günlük Türkçe",
+    "short_name": "Burç-Günlük Türkçe",
+    "start_url": "/05amulet/index02",
     "display": "standalone",
     "background_color": "#2A3443",
-    "description": "eDarling - Wejdź w bliski związek",
-    "theme_color": "#f69435",
+    "description": "Burç-Günlük Türkçe",
+    "theme_color": "#2A3443",
     "orientation": "any",
     "icons": [
         {
-            "src": "/04Planesp/icon-512x512.png",
+            "src": "/05amulet/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
         },
       {
-        "src": "/04Planesp/icon-512x512.png",
+        "src": "/05amulet/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
